@@ -1,4 +1,9 @@
 {
+  "plugins": {
+    "@textlint/markdown": {
+      "extensions": [".Rmd"]
+    }
+  },
   "rules": {
     "preset-ja-technical-writing": {
       "ja-no-mixed-period": false
