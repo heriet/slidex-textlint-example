@@ -1,6 +1,6 @@
 # slidex-textlint-example
 
-Convert powerPoint slides to markdown by slidex and lint markdown by textlint.
+Convert PowerPoint slides to markdown by slidex and lint markdown by textlint.
 
 ## Requirements
 
